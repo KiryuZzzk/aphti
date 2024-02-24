@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aphti/static/css/main.e6c13ad2.css",
-    "main.js": "/aphti/static/js/main.d46b5343.js",
+    "main.js": "/aphti/static/js/main.94011052.js",
     "static/js/592.dc6c7a72.chunk.js": "/aphti/static/js/592.dc6c7a72.chunk.js",
     "static/media/ambulancia.jpg": "/aphti/static/media/ambulancia.e385f8c991993e47e0dc.jpg",
     "static/media/logoAPHTI.png": "/aphti/static/media/logoAPHTI.34de6e8973ef170bc38f.png",
@@ -13,11 +13,11 @@
     "static/media/banorte.jpg": "/aphti/static/media/banorte.bdd8496bf195c7ec4f0a.jpg",
     "index.html": "/aphti/index.html",
     "main.e6c13ad2.css.map": "/aphti/static/css/main.e6c13ad2.css.map",
-    "main.d46b5343.js.map": "/aphti/static/js/main.d46b5343.js.map",
+    "main.94011052.js.map": "/aphti/static/js/main.94011052.js.map",
     "592.dc6c7a72.chunk.js.map": "/aphti/static/js/592.dc6c7a72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d46b5343.js"
+    "static/js/main.94011052.js"
   ]
 }
