@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/aphti/static/css/main.e6c13ad2.css",
-    "main.js": "/aphti/static/js/main.4ed64c60.js",
+    "main.js": "/aphti/static/js/main.b232358f.js",
     "static/js/592.dc6c7a72.chunk.js": "/aphti/static/js/592.dc6c7a72.chunk.js",
     "static/media/ambulancia.jpg": "/aphti/static/media/ambulancia.e385f8c991993e47e0dc.jpg",
+    "static/media/logoAPHTI.png": "/aphti/static/media/logoAPHTI.34de6e8973ef170bc38f.png",
     "static/media/das.jpg": "/aphti/static/media/das.dddda750c525d7815a7c.jpg",
     "static/media/qualitas.jpg": "/aphti/static/media/qualitas.36645d7895cd2e24cf4b.jpg",
     "static/media/aba.png": "/aphti/static/media/aba.d8b0d1d89a343da7382d.png",
     "static/media/mediaccess.jpg": "/aphti/static/media/mediaccess.649697bf6bcbbbd535d3.jpg",
     "static/media/pronatura.png": "/aphti/static/media/pronatura.2dbb10df3c00a3f6673a.png",
-    "static/media/logo4APHTI.png": "/aphti/static/media/logo4APHTI.c823594704d8ed71029d.png",
     "static/media/banorte.jpg": "/aphti/static/media/banorte.bdd8496bf195c7ec4f0a.jpg",
     "index.html": "/aphti/index.html",
     "main.e6c13ad2.css.map": "/aphti/static/css/main.e6c13ad2.css.map",
-    "main.4ed64c60.js.map": "/aphti/static/js/main.4ed64c60.js.map",
+    "main.b232358f.js.map": "/aphti/static/js/main.b232358f.js.map",
     "592.dc6c7a72.chunk.js.map": "/aphti/static/js/592.dc6c7a72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4ed64c60.js"
+    "static/js/main.b232358f.js"
   ]
 }
